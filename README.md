@@ -30,6 +30,7 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![Google Cloud Storage](https://img.shields.io/badge/-Google%20Cloud%20Storage-333333?style=flat&logo=google-cloud&logoColor=white)
+  ![Apex](https://img.shields.io/badge/-Apex-333333?style=flat&logo=salesforce&logoColor=white)
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
