@@ -22,9 +22,9 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js&logoColor=4FC08D)
+  <!---!![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)-->
 
 - 📱 &nbsp;
   ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=02569B)
@@ -44,13 +44,13 @@
 
 ## Live Projects
 
-[![FES Online](https://img.shields.io/badge/-FES%20Online-444444?style=flat&logo=github)](https://github.com/justsanchez/FESonline/)
 [![Sunset App](https://img.shields.io/badge/-Sunset%20App-444444?style=flat&logo=github)](https://github.com/justsanchez/sunsetApp)
 
 
 
 ## Projects that I contributed to
 
+[![FES Online](https://img.shields.io/badge/-FES%20Online-444444?style=flat&logo=github)](https://github.com/justsanchez/FESonline/)
 [![DevHive - A platform for devlopers](https://img.shields.io/badge/-DevHive-444444?style=flat&logo=github)](https://github.com/Johnathan-Friend/DevHive)
 [![Vacation Planner](https://img.shields.io/badge/-Vacation%20Planner-444444?style=flat&logo=github)](https://github.com/Johnathan-Friend/Vacation_Planner)
 
