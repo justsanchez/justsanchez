@@ -44,9 +44,7 @@
 
 ## Live Projects
 
-[![Sunset App](https://img.shields.io/badge/-Sunset%20App-444444?style=flat&logo=github)](https://github.com/justsanchez/sunsetApp)
-
-
+[![quizGen](https://img.shields.io/badge/-quizGen-333333?style=flat&logo=github)](https://github.com/justsanchez/quizGen)
 
 ## Projects that I contributed to
 
