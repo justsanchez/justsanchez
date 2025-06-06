@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 💻 I ~like~ **love** learning and coding
-- 🎓  Studying Computer Science at University of North Carolina Wilmington.
-- 💼 Working as a Software Engineer Intern at Ohanafy.
+- 🎓 Computer Science Graduate from the University of North Carolina Wilmington.
+- 💼 Working as a Software Engineer at Ohanafy.
 - 🌱 Currently diving into React and Next.js to expand my skills in modern web development.
 - ✍️ Pursuing video production (shooting/editing) as a hobby.
 
